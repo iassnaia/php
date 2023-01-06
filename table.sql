@@ -18,4 +18,4 @@ INSERT INTO groupmates VALUES (0008, 'Max', 30, 'Ryazan');
 INSERT INTO groupmates VALUES (0009, 'Maria', 38, 'Vladivostok');
 
 -- fetch 
-SELECT name FROM groupmates WHERE age >= 18 AND age < 30 AND address LIKE '%Moscow%';
+SELECT name FROM groupmates WHERE age >= 25 AND age < 40 AND address LIKE '%Moscow%';
