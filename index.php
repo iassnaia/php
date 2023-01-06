@@ -12,7 +12,7 @@ $info = [
     ],
     [
         'work_name' => 'Guide',
-        'work_date' => 'Avr 2021 - Current',
+        'work_date' => 'Apr 2021 - Current',
         'work_descrip' => 'I conduct excursions to the unexplored corners of the purest nature.',
     ],
 ];
