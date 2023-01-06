@@ -1,19 +1,19 @@
 <?php
 $info = [
     [
-        'work_name' => 'Disco dancer',
-        'work_date' => 'Aug 2019 - May 2020',
-        'work_descrip' => 'I danced disco at weddings and childrens matinees. He spoke to the President of France',
+        'work_name' => 'Coach',
+        'work_date' => 'Aug 2017 - May 2019',
+        'work_descrip' => 'I help people solve problems',
     ],
     [
-        'work_name' => 'Psychiatrist',
-        'work_date' => 'Sep 2020 - Dec 2021',
-        'work_descrip' => 'I worked in a psychiatric hospital in Sochi, treated patients with schizophrenia and other serious diseases.',
+        'work_name' => 'Pilot',
+        'work_date' => 'Sep 2019 - Dec 2020',
+        'work_descrip' => 'I fly an airplane.',
     ],
     [
-        'work_name' => 'Test pilot',
-        'work_date' => 'Jan 2022 - Current',
-        'work_descrip' => 'I flew a military helicopter, tested new types of controls, jumped from a parachute. While performing one of the tricks , he broke his right arm',
+        'work_name' => 'Guide',
+        'work_date' => 'Avr 2021 - Current',
+        'work_descrip' => 'I conduct excursions to the unexplored corners of the purest nature.',
     ],
 ];
 
